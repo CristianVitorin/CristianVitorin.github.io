@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title:"Acerca de mí"
+# about_title:  ACERCA DE MÍ
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola mi nombre es cristian Rangel tengo 20 años, soy estudiante de la licenciatura en negocios internacionales. 
@@ -75,7 +75,7 @@ content:
           Desde el año 2020 comecé mis estudios en la universidad del caribe, ubicado en la ciudad de cancun Quintana Roo. 
           Actualmente me encuentro cursando el cuarto semestre en la licenciarura en negocios internacionales.
 
-  - title: Experiencia # Title for the section
+  - title: EXPERIENCIA # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
