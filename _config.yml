@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   Lo que más disfruto es viajar, trabajar y conocer nuevos países. 
 
 content:
-  - title: TRAYECTORIA ACADÉMICA# Title for the section
+  - title: TRAYECTORIA ACADÉMICA
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -113,7 +113,7 @@ content:
   - title: UN POCO MÁS SOBRE MI
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      
       - Lector apacionado
       - Conocimientos en edición y marketing
       - Amigable
